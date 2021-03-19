@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/e016a95b-2ab6-4f9e-9b37-03686f825a5f/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/mecpark",
+  "appService.deploySubpath": "publish"
+}
